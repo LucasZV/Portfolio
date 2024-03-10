@@ -29,7 +29,7 @@ Cada proyecto incluye su propio conjunto de archivos, como notebooks de Jupyter,
 
 ¡Gracias por visitar mi portfolio de Data Science!
 
-Autor: [Lucas Zamora]
+Autor: [Lucas Zamora]  
 LinkedIn: [[LinkdIn](https://www.linkedin.com/in/lucas-zamora-5b0a68b0/)https://www.linkedin.com/in/lucas-zamora-5b0a68b0/]
 
 
