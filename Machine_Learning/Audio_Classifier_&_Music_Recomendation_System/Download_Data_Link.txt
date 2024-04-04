@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1GWjOkNWASPolepDBlwmm8cOIb56THQM8?usp=sharing
+
+genres_original data folder must be placed under the following path: "./data"

@@ -25,11 +25,19 @@ Construcción un modelo de clasificación de imágenes utilizando redes neuronal
 + Comparación de diferentes modelos: Exploré y comparé diferentes arquitecturas de redes neuronales para encontrar la más adecuada para el problema de clasificación de imágenes.
 + Análisis y visualización de errores: Analicé los errores del modelo para identificar patrones comunes de clasificación errónea. Además, visualicé los resultados para comprender mejor el rendimiento del modelo.
 
+## Clasificación de Géneros Musicales y Sistema de Recomendación de Canciones
+Este proyecto se centra en la construcción de un sistema de aprendizaje automático para la clasificación de géneros musicales y la recomendación de canciones similares. El proceso incluyó:
+
++ Preprocesamiento y extracción de características: Los datos de audio fueron preprocesados y las características fueron extraídas utilizando la biblioteca librosa.
++ Modelos de clasificación: Se utilizaron varios algoritmos de clasificación, como regresión logística, knn, árbol de decisiones, bosque aleatorio, SVM, MLP, redes neuronales y XGBoost.
++ Evaluación del modelo: El rendimiento de cada modelo de clasificación se evaluó utilizando métricas de precisión y una matriz de confusión.
++ Sistema de recomendación: Se construyó un sistema de recomendación basado en la similitud coseno entre muestras de audio.
+
 Cada proyecto incluye su propio conjunto de archivos, como notebooks de Jupyter, scripts de Python y archivos de datos necesarios para reproducir los resultados. Si tiene alguna pregunta o sugerencia, no dude en contactarme.
 
 ¡Gracias por visitar mi portfolio de Data Science!
 
-Autor: [Lucas Zamora]  
+Autor: [Lucas Zamora Vera]  
 LinkedIn: [[LinkdIn](https://www.linkedin.com/in/lucas-zamora-5b0a68b0/)https://www.linkedin.com/in/lucas-zamora-5b0a68b0/]
 
 
